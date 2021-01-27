@@ -516,7 +516,7 @@ a {
   .clients .section-container .section-info .client-grid img {
     margin-right: 37px !important;
     margin-bottom: 20px;
-    width: 35.5%;
+    width: 30%;
   }
 
   .clients .section-container .section-info .client-grid img:nth-child(2n) {
