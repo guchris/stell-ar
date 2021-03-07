@@ -497,14 +497,14 @@ a {
 }
 
 .clients .section-container .section-info .client-grid img {
-  margin-right: 3.75%;
-  margin-bottom: 20px;
-  width: 21.5%;
+  margin-right: 2%;
+  margin-bottom: 10px;
+  width: 15%;
 }
 
-.clients .section-container .section-info .client-grid img:nth-child(4n) {
+/* .clients .section-container .section-info .client-grid img:nth-child(4n) {
   margin-right: 0;
-}
+} */
 
 @media (max-width: 535px) {
   .clients .section-container .section-info .client-grid {
@@ -517,7 +517,7 @@ a {
   .clients .section-container .section-info .client-grid img {
     margin-right: 16px !important;
     margin-bottom: 10px;
-    width: 15%;
+    width: 27.35%;
   }
 
   .clients .section-container .section-info .client-grid img:nth-child(2n) {
