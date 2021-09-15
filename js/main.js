@@ -1,5 +1,5 @@
 var viewsAnimated = false;
-const viewMax = 6000000000;
+const viewMax = 8000000000;
 
 function goToDataLink() {
   window.open($(this).data('link'), '_blank');
